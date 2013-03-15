@@ -1,0 +1,8 @@
+﻿AILADA =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = 172.20.35.41)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SID= AILADA)
+    )
+  )xxx xml
